@@ -8,7 +8,7 @@ Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Charact
 [Bang Zhang](https://dblp.org/pid/11/4046.html),
 [Liefeng Bo](https://scholar.google.com/citations?user=FJwtMf0AAAAJ&hl=zh-CN)
 
-<a href='https://humanaigc.github.io/animate-anyone/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://arxiv.org/abs/'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/embed/8PCn5hLKNu4?si=8yvBeRNAJuxp77FZ)
+<a href='https://humanaigc.github.io/animate-anyone/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://arxiv.org/pdf/2311.17117.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/embed/8PCn5hLKNu4?si=8yvBeRNAJuxp77FZ)
 
 ![Teaser Image](docs/video_t1.png "Teaser")
 
@@ -18,7 +18,7 @@ Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Charact
 @article{hu2023animateanyone,
   title={Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation},
   author={Li Hu and Xin Gao and Peng Zhang and Ke Sun and Bang Zhang and Liefeng Bo},
-  journal={arXiv preprint arXiv:2300},
+  journal={arXiv preprint arXiv:2311.17117},
   website={https://humanaigc.github.io/animate-anyone/},
   year={2023}
 }
