@@ -22,11 +22,10 @@ Thank you for your understanding and continuous support.
 ## Citation	
 
 ```
-@article{hu2023animateanyone,
-  title={Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation},
-  author={Li Hu and Xin Gao and Peng Zhang and Ke Sun and Bang Zhang and Liefeng Bo},
-  journal={arXiv preprint arXiv:2311.17117},
-  website={https://humanaigc.github.io/animate-anyone/},
-  year={2023}
+@article{sun2024outfitanyone,
+  title={OutfitAnyone: Ultra-high Quality Virtual Try-On for Any Clothing and Any Person},
+  author={Sun, Ke and Cao, Jian and Wang, Qi and Tian, Linrui and Zhang, Xindi and Zhuo, Lian and Zhang, Bang and Bo, Liefeng and Zhou, Wenbo and Zhang, Weiming and others},
+  journal={arXiv preprint arXiv:2407.16224},
+  year={2024}
 }
 ```
