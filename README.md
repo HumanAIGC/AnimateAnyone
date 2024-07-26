@@ -22,10 +22,11 @@ Thank you for your understanding and continuous support.
 ## Citation	
 
 ```
-@article{sun2024outfitanyone,
-  title={OutfitAnyone: Ultra-high Quality Virtual Try-On for Any Clothing and Any Person},
-  author={Sun, Ke and Cao, Jian and Wang, Qi and Tian, Linrui and Zhang, Xindi and Zhuo, Lian and Zhang, Bang and Bo, Liefeng and Zhou, Wenbo and Zhang, Weiming and others},
-  journal={arXiv preprint arXiv:2407.16224},
+@inproceedings{hu2024animate,
+  title={Animate anyone: Consistent and controllable image-to-video synthesis for character animation},
+  author={Hu, Li},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={8153--8163},
   year={2024}
 }
 ```
