@@ -10,6 +10,10 @@ Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Charact
 
 <a href='https://humanaigc.github.io/animate-anyone/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://arxiv.org/pdf/2311.17117.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=8PCn5hLKNu4)
 
+
+📢 **NOTE:** If you're interested in the Animate Anyone series, feel free to check out our open-source work: **[Wan-Animate](https://humanaigc.github.io/wan-animate/)**
+
+
 ![Teaser Image](docs/video_t1.png "Teaser")
 
 
